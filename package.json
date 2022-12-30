@@ -1,0 +1,21 @@
+{
+  "name": "age-of-dark-empires-theme-by-black-telescope",
+  "displayName": "Age Of Dark Empires Theme",
+  "description": "Age Of Dark Empires Theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Age Of Dark Empires Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Age Of Dark Empires Theme-color-theme.json"
+      }
+    ]
+  }
+}
